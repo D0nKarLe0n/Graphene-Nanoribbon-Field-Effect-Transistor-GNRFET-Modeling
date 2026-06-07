@@ -49,7 +49,7 @@ By introducing field-dependent mobility, the model provides a much more physical
 
 1. Clone the repository:
    ```bash
-   git clone [(https://github.com/D0nKarLe0n/Graphene-Nanoribbon-Field-Effect-Transistor-GNRFET-Modeling.git)]
+   git clone https://github.com/D0nKarLe0n/Graphene-Nanoribbon-Field-Effect-Transistor-GNRFET-Modeling.git
    ```
 2. Open MATLAB and navigate to the /src directory.
 

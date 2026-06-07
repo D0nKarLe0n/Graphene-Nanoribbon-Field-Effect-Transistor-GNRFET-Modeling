@@ -36,12 +36,11 @@ As silicon-based CMOS scaling approaches its physical limits, Graphene Nanoribbo
 
 ### Drift Velocity Approximation
 The model successfully approximates velocity saturation behavior under high electric fields, matching multi-particle Monte Carlo simulation data.
-
-
+<img width="1280" height="737" alt="image" src="https://github.com/user-attachments/assets/586317d9-711b-4417-98bc-844c01df0b48" />
 
 ### I-V Characteristics ($L=100$ nm, $W=5$ nm)
 By introducing field-dependent mobility, the model provides a much more physically accurate representation of the current saturation regime compared to quasi-ballistic models.
-
+<img width="1280" height="691" alt="image" src="https://github.com/user-attachments/assets/7d7a59f7-efe8-46f3-915a-5b51cd598b7d" />
 
 
 ---
